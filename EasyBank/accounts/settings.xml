@@ -1,0 +1,7 @@
+<servers>
+    <server>
+        <id>registry-1.docker.io</id>
+        <username>droolingoverdocker</username>
+        <password>Docker123#</password>
+    </server>
+</servers>
